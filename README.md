@@ -2,7 +2,7 @@
 
 🔗 Live Demo
 
- [https://your-app.vercel.app](https://your-app.vercel.app)
+ [https://ai-concierge-for-et.vercel.app]
 
 Overview
 
