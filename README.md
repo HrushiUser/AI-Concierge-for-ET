@@ -95,8 +95,3 @@ This project demonstrates a **scalable AI concierge system** capable of transfor
 Built for ET AI Hackathon 2026
 
 **Built with ❤️ to unlock the full ET ecosystem**
-* help you prepare **Phase 2 questions**
-* add **1–2 killer features to boost shortlist chances**
-
-You’re in a strong position 🚀
-
